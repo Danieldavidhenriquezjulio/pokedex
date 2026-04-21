@@ -111,6 +111,9 @@ Se configuraron los siguientes encabezados HTTP de seguridad en `staticwebapp.co
 
 ### Resultados de auditorías
 
+<img width="1896" height="865" alt="image" src="https://github.com/user-attachments/assets/4e428b7d-5b6a-453b-b5a8-1da8f81a378e" />
+
+
 - **securityheaders.com:** Calificación **A** *(limitada a A en lugar de A+ por el uso de `'unsafe-inline'` en `script-src`, requerido por Angular en tiempo de build)*
 - **SSL Labs:** Calificación **A+** con soporte para TLS 1.3 y TLS 1.2, HSTS activo y Forward Secrecy habilitado.
 
