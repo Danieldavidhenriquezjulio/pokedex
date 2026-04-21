@@ -1,4 +1,8 @@
 {
+  "navigationFallback": {
+    "rewrite": "/pokedex-angular/index.html",
+    "exclude": ["/pokedex-angular/assets/*", "/*.{png,jpg,gif,ico,css,js}"]
+  }
   "globalHeaders": {
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "DENY",
