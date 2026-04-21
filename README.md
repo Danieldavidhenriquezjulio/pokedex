@@ -1,5 +1,6 @@
 # pokedex
-parcial de sistemas distribuidos
+parcial de sistemas distribuidos 
+Daniel David Henriquez Julio
 
 ---
 
