@@ -1,12 +1,6 @@
 {
-  "routes": [
-    {
-      "route": "/pokedex-angular/assets/*",
-      "rewrite": "/assets/*"
-    }
-  ],
   "navigationFallback": {
-    "rewrite": "/index.html",
-    "exclude": ["/assets/*", "/*.{png,jpg,gif,ico,css,js}"]
+    "rewrite": "/pokedex-angular/index.html",
+    "exclude": ["/pokedex-angular/assets/*", "/*.{png,jpg,gif,ico,css,js}"]
   }
 }
