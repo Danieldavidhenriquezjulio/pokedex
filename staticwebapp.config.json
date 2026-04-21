@@ -1,14 +1,14 @@
 {
   "navigationFallback": {
-    "rewrite": "/pokedex-angular/index.html",
-    "exclude": ["/pokedex-angular/assets/*", "/*.{png,jpg,gif,ico,css,js}"]
-  }
+    "rewrite": "/index.html",
+    "exclude": ["/assets/*", "/*.{png,jpg,gif,ico,css,js}"]
+  },
   "globalHeaders": {
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "DENY",
     "Referrer-Policy": "no-referrer",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
-    "Content-Security-Policy": "default-src 'self'; img-src 'self' https://raw.githubusercontent.com https://pokeapi.co; script-src 'self'; style-src 'self' 'unsafe-inline';"
+    "Content-Security-Policy": "default-src 'self'; img-src 'self' https://raw.githubusercontent.com https://pokeapi.co; script-src 'self'; style-src 'self' 'unsafe-inline';",
     "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
   }
 }
