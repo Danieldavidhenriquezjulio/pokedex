@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/pokedex-angular/assets/*",
-      "rewrite": "/assets/{*}"
+      "rewrite": "/assets/*"
     }
   ],
   "navigationFallback": {
