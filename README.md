@@ -4,7 +4,7 @@
 
 ---
 
-#📘 Creación de cuenta en Azure for Students
+## 📘 Creación de cuenta en Azure for Students
 Este documento describe el proceso que se realizó para crear una cuenta en Azure for Students, un programa de Microsoft que ofrece 100$ créditos gratuitos y servicios en la nube para estudiantes.
 
 Este documento describe el proceso que se realizó para crear una cuenta en Azure for Students, un programa que ofrece acceso gratuito a servicios en la nube para estudiantes.
