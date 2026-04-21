@@ -133,7 +133,7 @@ En la **raíz del proyecto** (no dentro de `src/`), cree el archivo `staticwebap
 -   **`Permissions-Policy`** — Restringe el acceso a APIs sensibles del navegador. Con `camera=(), microphone=(), geolocation=()` se declara explícitamente que la aplicación no necesita ni solicita acceso a la cámara, micrófono ni ubicación del usuario, reduciendo la superficie de ataque.
 
 ### Nota 
-La calificación está limitada a A en lugar de A+ debido al uso de `'unsafe-inline'` en `script-src`, necesario porque Angular genera scripts inline en tiempo de build. Para eliminar este warning se requeriría configurar un nonce o hash CSP, lo cual implica modificar el proceso de build de Angular.
+La calificación en https://securityheaders.com fue de una A está limitada a A en lugar de A+ debido al uso de `'unsafe-inline'` en `script-src`, necesario porque Angular genera scripts inline en tiempo de build. Para eliminar este warning se requeriría configurar un nonce o hash CSP, lo cual implica modificar el proceso de build de Angular.
 
 ---
 ## Paso 2: Configuración de Dominio Personalizado
