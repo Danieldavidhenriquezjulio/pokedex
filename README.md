@@ -1,6 +1,6 @@
 # pokedex
-parcial de sistemas distribuidos.
-Daniel David Henriquez Julio.
+este repo fue creado con la finalidad de la realizacion del parcial de sistemas distribuidos.
+Estudiante: Daniel David Henriquez Julio.
 
 ---
 
