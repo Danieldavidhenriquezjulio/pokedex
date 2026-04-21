@@ -1,13 +1,11 @@
 # pokedex
--parcial de sistemas distribuidos 
--Daniel David Henriquez Julio
+parcial de sistemas distribuidos.
+Daniel David Henriquez Julio.
 
 ---
 
 ## 📘 Creación de cuenta en Azure for Students
-Este documento describe el proceso que se realizó para crear una cuenta en Azure for Students, un programa de Microsoft que ofrece 100$ créditos gratuitos y servicios en la nube para estudiantes.
-
-Este documento describe el proceso que se realizó para crear una cuenta en Azure for Students, un programa que ofrece acceso gratuito a servicios en la nube para estudiantes.
+Este documento describe el proceso que se realizó para crear una cuenta en Azure for Students, un programa de Microsoft que ofrece $100 USD créditos gratuitos con vigencia de 12 meses y servicios en la nube para estudiantes.
 
 ---
 
@@ -30,8 +28,7 @@ Una vez en la página principal, se seleccionó la opción **"Empezar gratis"** 
 
 ## 🔐 Paso 2: Inicio de sesión
 
-Se procedió a iniciar sesión con una cuenta de Microsoft previamente creada.  
-En caso de no contar con una, la plataforma ofrece la opción de registro.
+Se procedió a iniciar sesión con una cuenta de Microsoft previamente suministrada por la universidad Fundacion Universitaria Tecnologico Comfenalco.  
 
 ---
 
