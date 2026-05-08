@@ -257,6 +257,9 @@ La aplicación cumple con buenas prácticas de despliegue, seguridad y accesibil
 
 ## SSL / TLS Security Report
 
+<img width="1368" height="784" alt="image" src="https://github.com/user-attachments/assets/86a3d6be-277d-4355-8a9f-db6b250f4465" />
+
+
 Se realizó un análisis de seguridad utilizando SSL Labs sobre el dominio de la aplicación desplegada.
 
 El resultado obtenido fue una calificación A+, lo que indica una configuración segura y moderna del protocolo HTTPS.
