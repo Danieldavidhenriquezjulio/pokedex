@@ -96,6 +96,9 @@ en esta etapa se realizo la creacion del dominio y el despliegue en azure.
 - Se desplegó en la nube usando Azure  
 - La aplicación quedó accesible mediante una URL pública
 
+- <img width="1559" height="327" alt="image" src="https://github.com/user-attachments/assets/178e866a-012d-4cbf-80ce-49dd59108c2e" />
+
+
 ---
 # Etapa 2: Seguridad y Dominio
 en esta etapa se implementaronn las buenas practicas de seguridad y vinculacion de un dominio y dns.
@@ -158,6 +161,9 @@ https://www.danieldhj.dev
 https://danieldhj.dev
 
 Ambos dominios fueron validados correctamente por Azure.
+
+<img width="1571" height="398" alt="image" src="https://github.com/user-attachments/assets/36d8de61-e668-4b4d-9ba7-c29f7fb43aef" />
+
 
 
 
