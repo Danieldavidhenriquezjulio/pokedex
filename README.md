@@ -73,6 +73,9 @@ Al finalizar el proceso:
 - Se habilitaron créditos gratuitos para uso académico
 - Se obtuvo acceso al panel de administración de servicios en la nube
 
+- <img width="1914" height="866" alt="image" src="https://github.com/user-attachments/assets/185be607-e2bc-4388-a1ed-b4231e601581" />
+
+
 ---
 
 ## ✅ Conclusión
